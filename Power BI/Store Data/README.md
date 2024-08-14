@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-This dashboard is a comprehensive tool for monitoring and analyzing key performance metrics related to shop sales. It enables owner to quickly assess overall business performance, identify top-performing regions, categories, and customers, and gain insights into profit trends across months and sub-categories. The report is particularly useful for strategic decision-making, allowing the business to focus on areas that are driving profit and address any negative trends in sales or profitability
+This dashboard is an essential tool for monitoring and analyzing key performance metrics related to shop sales. It allows business owners to swiftly assess overall performance, pinpoint top-performing regions, categories, and customers and gain valuable insights into profit trends across months and sub-categories. The report is particularly beneficial for strategic decision-making, enabling the business to concentrate on profit-driving areas and proactively address any negative trends in sales or profitability.
 
 
 # Insights

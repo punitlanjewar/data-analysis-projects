@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-This excel report is a comprehensive tool for monitoring and analyzing key performance related to company sales, revenue and profit. It enables owners to quickly acsess overall business performance, identify top-performing states, customers, products and gain insights into profit trends across year. The report is particularly useful for strategic decision-making, allowing the business to focus on areas that are driving profit and address any negative trends in sales or profitability.
+This Excel report serves as a comprehensive tool for monitoring and analyzing key performance metrics related to company sales, revenue, and profit. It enables stakeholders to quickly access an overview of business performance, identify top-performing states, customers, and products, and gain valuable insights into profit trends throughout the year. The report is especially useful for strategic decision-making, empowering the business to concentrate on profit-driving areas and address any negative trends in sales or profitability.
 
 
 # Insights
