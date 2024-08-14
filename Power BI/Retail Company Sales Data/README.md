@@ -9,7 +9,7 @@ This dashboard is a comprehensive tool for monitoring and analyzing key performa
 
 # Insights
 
-A single 3 page report was created on Power BI Desktop & it was then published to Power BI Service.
+This is a 3 page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard.
 
