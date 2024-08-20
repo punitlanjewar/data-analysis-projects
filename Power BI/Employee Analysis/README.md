@@ -32,7 +32,7 @@ Fourth Card displays the average age of the employees those are leaving the orga
 
 Fifth card displays the average salary of the employees.
 
-    The average salary of the empolyee is 7K
+    The average salary of the employee is 7K
 
 The sixth card is an KPI (It's an key performance indicator), It gives the targeted and achieved average working year in the organization of an employees.
 
@@ -56,7 +56,7 @@ This is an waterfall chart which gives the attrition count by gender and in thir
 
 ### [3] Attrition By Education
 
-  The Pie chart gives the employees which are leving the organization are from which educational field.
+  The Pie chart gives the employees which are leaving the organization are from which educational field.
 
     The total employees from Life Science are 88 and the overall percentages is ~38%
     The total employees from Medial field are 57 and the overall percentage is ~25%
@@ -73,11 +73,11 @@ This is an waterfall chart which gives the attrition count by gender and in thir
 
 The chars gives the sum of attrition of employees on the basis of age group.
 
-    Total 111 employes from age group between 26 to 35 are leaving the organization
+    Total 111 employees from age group between 26 to 35 are leaving the organization
     Total 43 employees from age group between 18 to 25 are leaving the organization
-    Total 41 employees from agre group between 36 to 45 are leaving the organization
+    Total 41 employees from age group between 36 to 45 are leaving the organization
     Total 27 employees from age group between 46 to 55 are leaving the organization
-    Total 8 employees from agre group between 55 and 55+ are leaving the organization 
+    Total 8 employees from age group between 55 and 55+ are leaving the organization 
 
 #### Snap Shot of Attrition by Age Group Chart 
 
@@ -92,14 +92,14 @@ The displays the data that how much employees given rating from 1 to 4 before le
 
 ![Screenshot 2024-08-15 235510](https://github.com/user-attachments/assets/ece8a924-31e7-4fae-bc9f-7e7106aeecf8)
 
-### [6] Attriton by Salary
+### [6] Attrition by Salary
 
 The chart gives the analysis of employees attrition based on the salary figure.
 
-    Total 158 employees who left the organization getting the salary upto 5K
+    Total 158 employees who left the organization getting the salary up to 5K
     Total 48 employees who left the organization getting salary in between 5k to 10k
     Total 19 employees who left the organization getting salary in between 10k to 15k
-    Total 5 employees who left the organization are gettong the salary above 15k
+    Total 5 employees who left the organization are getting the salary above 15k
 
 #### Snap Shot of Attrition By Salary Chart
 
@@ -121,7 +121,7 @@ The chart gives top 5 job roles from which employees are leaving the organizatio
 
 ### [8] Attrition by Working Years 
 
-The Chart gives the details about the employees attrition and the working Years in the organization, i.e. before leaving the organization how many years employes work in the organization.
+The Chart gives the details about the employees attrition and the working Years in the organization, i.e. before leaving the organization how many years employees work in the organization.
 
     16 employees left the organization less than 1 year
     57 employees left the organization within one year

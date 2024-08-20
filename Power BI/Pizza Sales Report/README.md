@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard is an essential tool for monitoring and analyzing key metrics related to pizza store sales within the organization. It enables management to quickly assess overall working management stability, identify stratgies with high sales, and gain valuable insights into trends affecting pizza sales. The report is particularly beneficial for strategic decision-making, allowing the store to focus on things that contribute to pizza sales.
+This dashboard is an essential tool for monitoring and analyzing key metrics related to pizza store sales within the organization. It enables management to quickly assess overall working management stability, identify strategies with high sales, and gain valuable insights into trends affecting pizza sales. The report is particularly beneficial for strategic decision-making, allowing the store to focus on things that contribute to pizza sales.
 
 ## Insights
 
@@ -40,7 +40,7 @@ Fifth KPI displays the count of average pizzas by per order.
 
 ### [2] Pizzas sold by Day's
 
-This is an barchart which is diplaying the data of Pizzas sold by Weekdays and Weekends day names.
+This is an barchart which is displaying the data of Pizzas sold by Weekdays and Weekends day names.
 
     1. The pizzas are sold on sunday are 2.6k
     2. The pizzas are sold on monday are 2.8k
@@ -59,7 +59,7 @@ This is an barchart which is diplaying the data of Pizzas sold by Weekdays and W
   The above chart is an Area chart which displaying the data of Monthly Orders.
 
     1. In January Month the orders are 1845
-     2. In Febuary Month the orders are 1685
+     2. In February Month the orders are 1685
      3. In March Month the orders are 1840
      4. In April Month the orders are 1799
      5. In may Month the orders are 1853
@@ -104,7 +104,7 @@ It displays the data of the Revenue increase by which pizza size. There are tota
 
 ### [6] Total Pizzas Sold by Pizza Category
 
-The availabe chart is displaying the total count of pizzas sold by pizza category in the year.
+The available chart is displaying the total count of pizzas sold by pizza category in the year.
 
     1. Total 15k pizzas sold from Classic category
     2. Total 12k pizzas sold from the Supreme category
@@ -144,7 +144,10 @@ The Chart gives the details about the the top 5 and bottom 5 selling pizzas by r
 
 In the report, I utilized a tooltip that includes a chart displaying the total pizza orders segmented by pizza sizes. This tooltip is designed to enhance the main report by providing detailed insights whenever the user hovers over data points related to total pizza orders and corresponding pizza sizes. The chart within the tooltip offers a quick visual breakdown, allowing for a more interactive and informative experience.
 
-#### Shap shoti of the Tooltip Page
+#### Snap shot of the Tooltip Page
+
+![Screenshot 2024-08-20 170800](https://github.com/user-attachments/assets/d1e4909c-f7e6-4ddd-a71a-4358f0e847e2)
+
 
 ![Screenshot 2024-08-20 165226](https://github.com/user-attachments/assets/7934a0e6-17c3-4651-bb39-60f99c1119cc)
 

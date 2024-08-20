@@ -15,7 +15,7 @@ Following inferences can be drawn from the dashboard;
 
 ### [1] Profit on Monthly Basis
 
-   Proft in the month of Jan, Feb, Mar and Apr was good enough
+   Profit in the month of Jan, Feb, Mar and Apr was good enough
 
    Profit in the month of May, Jun, Jul, and Aug was not good enough, during this months shop going through loss
 
@@ -45,21 +45,21 @@ Following inferences can be drawn from the dashboard;
  ### [4] Sales by Top 5 States
  
  
- 1.1) Total amount revcovered from Maharashtra customers is - 102k
+ 1.1) Total amount recovered from Maharashtra customers is - 102k
  
- 1.2) Total amount revcovered from Madhya Pradesh customers is - 87k
+ 1.2) Total amount recovered from Madhya Pradesh customers is - 87k
  
- 1.3) Total amount revcovered from Uttar Pradesh customers is - 38k
+ 1.3) Total amount recovered from Uttar Pradesh customers is - 38k
 
- 1.4) Total amount revcovered from Delhi customers is - 23k
+ 1.4) Total amount recovered from Delhi customers is - 23k
 
- 1.5) Total amount revcovered from Rajasthan customers is - 22k
+ 1.5) Total amount recovered from Rajasthan customers is - 22k
  
          thus, maximum shopping done by the Maharashtra Customers.
  
  ### Slicers
  
- 2.1)  Added button slicer based on display data quaterly, So user can able to access the data of every 3 months or quaterly.
+ 2.1)  Added button slicer based on display data quarterly, So user can able to access the data of every 3 months or quarterly.
  
  2.2)  Added an dropdown slicer which is used to display the data based on each State basis
 

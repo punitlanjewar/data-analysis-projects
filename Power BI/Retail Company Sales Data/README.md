@@ -31,16 +31,16 @@ Following inferences can be drawn from the dashboard.
   
   First Gauge chart gives the targeted revenue and the gained revenue.
 
-    The targeted revenue was 40.57M and the achived revenue is 43M.
+    The targeted revenue was 40.57M and the achieved revenue is 43M.
 
-  Second Gauge chart displays the targeted orders and actully received orders.
+  Second Gauge chart displays the targeted orders and actually received orders.
 
     The targeted orders are 152k and the received orders are 166k
 
  ### [4] Return Quantity & Rate
  
  
- From the table we can analyze that the return quantity and the retuen rate by each product.
+ From the table we can analyze that the return quantity and the return rate by each product.
  
  ### [5] Slicers
  
@@ -57,7 +57,7 @@ Following inferences can be drawn from the dashboard.
  
  In the product details report KPI's(Key Performance Indicator) added which will display the Performance of by each product
 
- In the First KPI we can see that the performance of All Purpost Bike Stand, The targeted revenue and achieved revenue using color basis also.
+ In the First KPI we can see that the performance of All Purpose Bike Stand, The targeted revenue and achieved revenue using color basis also.
 
     The targeted revenue was 3.61M and the achieved revenue is 3.65M, so the revenue is more than expected
 
@@ -84,7 +84,7 @@ Following inferences can be drawn from the dashboard.
 
  The button slicer will filter the data based on the country.
 
- The tables displays the Top customers and Bottom customers who purchare more and less.
+ The tables displays the Top customers and Bottom customers who purchase more and less.
 
  #### Snap Shot of NLQ (Natural Language Query) Report, Published on Power BI Service
 
