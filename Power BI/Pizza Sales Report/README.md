@@ -1,4 +1,3 @@
-
 # Pizza Sales Report
 
 ## Problem Statement
@@ -12,7 +11,8 @@ A 2 page report showing the data of whole year 2015, was created on Power BI Des
 Following inferences can be drawn from the dashboard;
 
 ### [1] KPI's
-There are total 5 KPI which display the pizza sales. 
+
+There are total 5 KPI which display the pizza sales.
 
 First KPI displays the total generated in the year.
 
@@ -26,7 +26,7 @@ Third KPI gives the average order price of the pizzas.
 
     The average order price is 38.31
 
-Fourth KPI displays the total pizzas sold in whole year.    
+Fourth KPI displays the total pizzas sold in whole year.
 
     The total pizzas sold in whole year is 50k
 
@@ -48,7 +48,7 @@ This is an barchart which is diplaying the data of Pizzas sold by Weekdays and W
     4. The pizzas are sold on wednesday are 3.0k
     5. The pizzas are sold on thursday are 3.2k
     6. The pizzas are sold on friday are 3.5k
-    7. The pizzas are sold on saturday are 3.2k 
+    7. The pizzas are sold on saturday are 3.2k
 
 #### Snap Shot of pizza sold by Day's name chart
 
@@ -58,7 +58,7 @@ This is an barchart which is diplaying the data of Pizzas sold by Weekdays and W
 
   The above chart is an Area chart which displaying the data of Monthly Orders.
 
-     1. In January Month the orders are 1845
+    1. In January Month the orders are 1845
      2. In Febuary Month the orders are 1685
      3. In March Month the orders are 1840
      4. In April Month the orders are 1799
@@ -71,7 +71,7 @@ This is an barchart which is diplaying the data of Pizzas sold by Weekdays and W
     11. In November Month the orders are 1792
     12. In December Month the orders are 1680
 
-#### Snap Shot of Attrition by Education Pie Chart    
+#### Snap Shot of Attrition by Education Pie Chart
 
 ![Screenshot 2024-08-20 023135](https://github.com/user-attachments/assets/ac16596d-9304-47c3-859c-b730b190f863)
 
@@ -82,12 +82,11 @@ The pie chart displays the data of the pizza sales by pizza category. There are 
     1. The revenue by the Veggie category pizza is 23.7%
     2. The revenue by the Classic category pizza is 26.9%
     3. The revenue by the Supreme category pizza is 25.5%
-    4. The revenue by the Chicken category pizza is 24% 
+    4. The revenue by the Chicken category pizza is 24%
 
-#### Snap Shot of Total Revenue by Pizza Category 
+#### Snap Shot of Total Revenue by Pizza Category
 
 ![Screenshot 2024-08-20 023912](https://github.com/user-attachments/assets/feafb3ce-1330-479c-ae08-542bfa82d4a1)
-
 
 ### [5] Revenue by Pizza Size
 
@@ -140,7 +139,14 @@ The Chart gives the details about the the top 5 and bottom 5 selling pizzas by r
 #### Snap Shot of Top 5 and Bottom 5 pizzas sold
 
 ![Screenshot 2024-08-20 030006](https://github.com/user-attachments/assets/c99423f7-febc-4d69-b743-d25a600457fc)
-    
+
+### [9] ToolTip
+
+In the report, I utilized a tooltip that includes a chart displaying the total pizza orders segmented by pizza sizes. This tooltip is designed to enhance the main report by providing detailed insights whenever the user hovers over data points related to total pizza orders and corresponding pizza sizes. The chart within the tooltip offers a quick visual breakdown, allowing for a more interactive and informative experience.
+
+#### Shap shoti of the Tooltip Page
+
+![Screenshot 2024-08-20 165226](https://github.com/user-attachments/assets/7934a0e6-17c3-4651-bb39-60f99c1119cc)
 
 ## Snap Shot of Pizza Sales Report, Published on Power BI server
 
